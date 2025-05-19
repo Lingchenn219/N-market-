@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806062108595",
+    "project_id": "minimart-8c86b",
+    "storage_bucket": "minimart-8c86b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806062108595:android:e6810a3402a17f40d0a5c6",
+        "android_client_info": {
+          "package_name": "com.minimart.xiaomi8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk3mCRA3ePvZQijkJAjfjxV22-4GAFxnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
